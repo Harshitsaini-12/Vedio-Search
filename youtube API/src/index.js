@@ -5,8 +5,8 @@ import YTSearch from 'youtube-api-search';
 import SearchBar from './components/search_bas';
 import VedioList from './components/vedio_list';
 import VedioDetail from './components/vedio_detail';
-const API_KEY='AIzaSyCD1h7wEna23hyq1mjISydo0gIb7JSfpmo';
-
+const API_KEY=************************
+//'AIzaSyCD1h7wEna23hyq1mjISydo0gIb7JSfpmo';
 
 class App extends Component{
 
